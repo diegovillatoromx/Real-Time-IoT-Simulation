@@ -5,7 +5,7 @@
 - [Description](#description) 
 - [Architecture](#architecture) 
 - [Modular_Code_Overview](#modular_code_overview)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Usage](#usage)  
 - [Contribution](#contribution) 
 - [Contact](#contact)

@@ -2,7 +2,7 @@
  
 ## Table of Contents  
 
-- [Description](#description)
+- [Description](#description) 
 - [Architecture](#architecture)
 - [Modular_Code_Overview](#modular_code_overview)
 - [Installation](#installation)

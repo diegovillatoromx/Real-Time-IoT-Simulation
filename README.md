@@ -11,6 +11,9 @@
 - [Contact](#contact)
 
 
+## Architecture
+
+![diagram](https://github.com/diegovillatoromx/Real-Time-IoT-Simulation/blob/main/architecture.png)
 
  
 

@@ -7,7 +7,7 @@
 - [Modular_Code_Overview](#modular_code_overview)
 - [Installation](#installation)
 - [Usage](#usage) 
-- [Contribution](#contribution)
+- [Contribution](#contribution) 
 - [Contact](#contact)
 
 

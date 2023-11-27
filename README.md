@@ -8,7 +8,7 @@
 - [Installation](#installation) 
 - [Usage](#usage)  
 - [Contribution](#contribution) 
-- [Contact](#contact)
+- [Contact](#contact) 
 
 
 ## Architecture

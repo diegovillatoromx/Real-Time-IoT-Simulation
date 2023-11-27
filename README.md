@@ -15,6 +15,16 @@
 
 ![diagram](https://github.com/diegovillatoromx/Real-Time-IoT-Simulation/blob/main/architecture.png)
 
- 
+## Contribution
+  1. Focus changes on specific improvements.
+  2. Follow project's coding style.
+  3. Provide detailed descriptions in pull requests.
+     
+## Reporting Issues
+  Use "Issues" to report bugs or suggest improvements.
+  
+# Contact
+For questions or contact, my [Mail](diegovillatormx@gmail.com) or [Twitter](https://twitter.com/diegovillatomx). 
+
 
   

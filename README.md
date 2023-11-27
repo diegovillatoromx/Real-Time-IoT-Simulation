@@ -20,9 +20,6 @@
   2. Follow project's coding style.
   3. Provide detailed descriptions in pull requests.
      
-## Reporting Issues
-  Use "Issues" to report bugs or suggest improvements.
-  
 # Contact
 For questions or contact, my [Mail](diegovillatormx@gmail.com) or [Twitter](https://twitter.com/diegovillatomx). 
 
